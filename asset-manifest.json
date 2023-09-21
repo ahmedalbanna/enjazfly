@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/enjazfly/static/css/main.0a288edf.css",
+    "main.js": "/enjazfly/static/js/main.f2d29756.js",
+    "static/js/787.7b4a81e1.chunk.js": "/enjazfly/static/js/787.7b4a81e1.chunk.js",
+    "static/media/FreeSansBold.ttf": "/enjazfly/static/media/FreeSansBold.974eea1b945ddbbafb86.ttf",
+    "index.html": "/enjazfly/index.html",
+    "main.0a288edf.css.map": "/enjazfly/static/css/main.0a288edf.css.map",
+    "main.f2d29756.js.map": "/enjazfly/static/js/main.f2d29756.js.map",
+    "787.7b4a81e1.chunk.js.map": "/enjazfly/static/js/787.7b4a81e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a288edf.css",
+    "static/js/main.f2d29756.js"
+  ]
+}

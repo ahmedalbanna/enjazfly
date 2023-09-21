@@ -1,0 +1,134 @@
+.chooseAStarting {
+  position: absolute;
+  top: 34px;
+  left: 42.18px;
+  line-height: 28px;
+  display: inline-block;
+  width: 435px;
+}
+.syncToLocofy {
+  top: 0;
+  left: 42.15px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.b,
+.groupChild,
+.syncToLocofy {
+  position: absolute;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 24px;
+  height: 24px;
+}
+.b {
+  top: 3.95px;
+  left: 8.36px;
+  display: inline-block;
+  width: 8.81px;
+  height: 17.63px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 1.72px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.syncToLocofyBuilderParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 264.15px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.chooseAStartingFrameAndChParent,
+.groupItem {
+  position: absolute;
+  top: 25.04px;
+  left: 0;
+  width: 477.18px;
+  height: 90px;
+}
+.groupItem {
+  top: -0.5px;
+  left: -0.32px;
+  border-top: 1px solid var(--studio-lightmode-placeholders-bac2d6);
+  box-sizing: border-box;
+  width: 478px;
+  height: 1px;
+  opacity: 0.5;
+}
+.screenshot20220302At536 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 212.07px;
+  height: 362.03px;
+  object-fit: cover;
+}
+.ellipseDiv,
+.groupChild1,
+.groupInner {
+  position: absolute;
+  height: 4.66%;
+  width: 7.96%;
+  top: 75.25%;
+  right: 93.24%;
+  bottom: 20.09%;
+  left: -1.2%;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 4.6px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+}
+.ellipseDiv,
+.groupChild1 {
+  top: 46.53%;
+  bottom: 48.81%;
+}
+.groupChild1 {
+  top: 62.27%;
+  bottom: 33.07%;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 179.42px;
+  left: 31.71px;
+  background-color: var(--color-ghostwhite-200);
+  width: 43.87px;
+  height: 9.1px;
+}
+.framesSelected {
+  position: absolute;
+  top: 178.8px;
+  left: 21.65px;
+}
+.groupParent,
+.screenshot20220302At536Parent {
+  position: absolute;
+  top: 135.43px;
+  left: 42.15px;
+  width: 212.07px;
+  height: 362.03px;
+  font-size: var(--font-size-5xs);
+  color: var(--color-darkgray-200);
+}
+.groupParent {
+  top: 821.79px;
+  left: 58.82px;
+  width: 477.18px;
+  height: 497.46px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--studio-darkmode-explainertext-485269);
+  font-family: var(--components-button-large);
+}

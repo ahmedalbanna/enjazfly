@@ -1,0 +1,206 @@
+.defining {
+  margin: 0;
+}
+.definingStylingContainer {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  line-height: 80px;
+  font-weight: 900;
+}
+.gettingStarted {
+  position: absolute;
+  top: 0;
+  left: 3.42px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.definingStylingLayoutsParent {
+  position: absolute;
+  top: 42px;
+  left: 60.36px;
+  width: 515px;
+  height: 195px;
+  font-size: var(--font-size-46xl);
+  color: var(--color-darkslategray-100);
+}
+.inTheStyling,
+.niceJobYouve,
+.selectThePurpleContainer {
+  position: absolute;
+  left: 60px;
+  display: inline-block;
+  width: 474px;
+}
+.inTheStyling {
+  top: 266px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+}
+.niceJobYouve,
+.selectThePurpleContainer {
+  top: 1338px;
+  line-height: 32px;
+}
+.selectThePurpleContainer {
+  top: 34px;
+  left: 41.52px;
+  width: 403px;
+}
+.selectTheLayer {
+  top: 0;
+  left: 41.77px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.b,
+.groupChild,
+.selectTheLayer {
+  position: absolute;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 24px;
+  height: 24px;
+}
+.b {
+  top: 3.95px;
+  left: 8.36px;
+  display: inline-block;
+  width: 8.81px;
+  height: 17.63px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.selectTheLayerParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 219.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.selectThePurpleViewFullGParent {
+  position: absolute;
+  top: 412px;
+  left: 60.48px;
+  width: 444.52px;
+  height: 98px;
+}
+.nowLetsAdd,
+.thenChooseThe,
+.youCanThen {
+  position: absolute;
+  top: 1242px;
+  left: 101.52px;
+  line-height: 32px;
+  display: inline-block;
+  width: 403px;
+}
+.nowLetsAdd,
+.thenChooseThe {
+  top: 962px;
+}
+.nowLetsAdd {
+  top: 39px;
+  left: 41.52px;
+}
+.addHoverStateParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 215.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.gettingStartedBehaviourInner,
+.image16Icon,
+.nowLetsAddAHoverEffectParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 444.52px;
+  height: 135px;
+}
+.gettingStartedBehaviourInner,
+.image16Icon {
+  top: 653px;
+  left: 60px;
+}
+.image16Icon {
+  top: 1022px;
+  left: 130px;
+  width: 324px;
+  height: 188px;
+  object-fit: cover;
+}
+.gettingStartedBehaviourChild {
+  position: absolute;
+  top: 1199.17px;
+  left: 274.17px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.gettingStartedBehaviourItem,
+.image16Icon1 {
+  position: absolute;
+  top: 517.55px;
+  left: 104.48px;
+  width: 377.42px;
+  height: 134.82px;
+}
+.image16Icon1 {
+  top: 0;
+  left: 0;
+  width: 340px;
+  height: 122px;
+  object-fit: cover;
+}
+.groupInner {
+  position: absolute;
+  top: 67.17px;
+  left: 151.17px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.image16Parent {
+  position: absolute;
+  top: 808px;
+  left: 127px;
+  width: 340px;
+  height: 122px;
+}
+.gettingStartedBehaviour {
+  position: absolute;
+  top: 0;
+  left: 62px;
+  background-color: var(--color-ghostwhite-100);
+  width: 595px;
+  height: 1434px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--studio-darkmode-explainertext-485269);
+  font-family: var(--components-button-large);
+}

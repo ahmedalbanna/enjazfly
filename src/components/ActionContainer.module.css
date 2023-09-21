@@ -1,0 +1,504 @@
+.selectTheSmall,
+.youCanAlso {
+  position: absolute;
+  display: inline-block;
+}
+.youCanAlso {
+  top: 180.84px;
+  left: 60px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+  width: 480px;
+}
+.selectTheSmall {
+  top: 34px;
+  left: 41.52px;
+  line-height: 28px;
+  width: 403px;
+}
+.selectTheLayer {
+  top: 0;
+  left: 41.77px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.b,
+.groupChild,
+.selectTheLayer {
+  position: absolute;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 24px;
+  height: 24px;
+}
+.b {
+  top: 3.95px;
+  left: 8.36px;
+  display: inline-block;
+  width: 8.81px;
+  height: 17.63px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.selectTheLayerParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 219.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.selectTheSmallPlayIconInParent {
+  position: absolute;
+  top: 326.84px;
+  left: 60.48px;
+  width: 444.52px;
+  height: 90px;
+}
+.addingActions {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  line-height: 80px;
+  font-weight: 900;
+  display: inline-block;
+  width: 498px;
+}
+.gettingStarted {
+  position: absolute;
+  top: 0;
+  left: 3.42px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.addOnclickActionParent,
+.addingActionsParent {
+  position: absolute;
+  color: var(--color-darkslategray-100);
+}
+.addingActionsParent {
+  top: 41.84px;
+  left: 60px;
+  width: 498px;
+  height: 115px;
+  font-size: var(--font-size-46xl);
+}
+.addOnclickActionParent {
+  top: 0;
+  left: 0;
+  width: 247.77px;
+  height: 28px;
+}
+.tagItAsAButtonAndGoToParent {
+  position: absolute;
+  top: 704.94px;
+  left: 63px;
+  width: 444.52px;
+  height: 90px;
+}
+.rectangleIcon,
+.rectangleIcon1 {
+  position: absolute;
+  height: 112.56%;
+  width: 108.92%;
+  top: -3.14%;
+  right: -4.46%;
+  bottom: -9.42%;
+  left: -4.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleIcon1 {
+  height: 101.45%;
+  width: 101.69%;
+  top: -0.72%;
+  right: -0.85%;
+  bottom: -0.72%;
+  left: -0.85%;
+}
+.scrollIntoView {
+  position: absolute;
+  height: 31.88%;
+  width: 68.19%;
+  top: 58.7%;
+  left: 16.06%;
+  display: inline-block;
+}
+.actionscrollIntoViewIcon {
+  position: absolute;
+  height: 36.93%;
+  width: 48.29%;
+  top: 12.75%;
+  right: 26.28%;
+  bottom: 50.32%;
+  left: 25.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.actionsnormalCopy21 {
+  position: absolute;
+  height: 48.25%;
+  width: 23.41%;
+  top: 0;
+  right: 76.59%;
+  bottom: 51.75%;
+  left: 0;
+}
+.close {
+  margin: 0;
+}
+.closePopUp {
+  position: absolute;
+  height: 31.88%;
+  width: 47.46%;
+  top: 58.7%;
+  left: 24.89%;
+  display: inline-block;
+}
+.actionscrollIntoViewIcon1 {
+  position: absolute;
+  height: 31.23%;
+  width: 44.42%;
+  top: 15.55%;
+  right: 27.73%;
+  bottom: 53.23%;
+  left: 27.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.actionsnormalCopy25 {
+  position: absolute;
+  height: 48.25%;
+  width: 23.41%;
+  top: 51.75%;
+  right: 76.59%;
+  bottom: 0;
+  left: 0;
+}
+.changePage {
+  position: absolute;
+  height: 31.88%;
+  width: 55.16%;
+  top: 58.7%;
+  left: 24.16%;
+  display: inline-block;
+}
+.actionscrollIntoViewIcon2 {
+  position: absolute;
+  height: 36.78%;
+  width: 42.13%;
+  top: 13.19%;
+  right: 28.93%;
+  bottom: 50.03%;
+  left: 28.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.actionsnormalCopy22 {
+  position: absolute;
+  height: 48.25%;
+  width: 23.41%;
+  top: 0;
+  right: 51.06%;
+  bottom: 51.75%;
+  left: 25.53%;
+}
+.openUrlExternal {
+  position: absolute;
+  height: 31.88%;
+  width: 68.77%;
+  top: 58.7%;
+  left: 15.49%;
+  display: inline-block;
+}
+.actionscrollIntoViewIcon3 {
+  position: absolute;
+  height: 39.78%;
+  width: 45.01%;
+  top: 11.17%;
+  right: 27.25%;
+  bottom: 49.05%;
+  left: 27.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.actionsnormalCopy23 {
+  position: absolute;
+  height: 48.25%;
+  width: 23.41%;
+  top: 0;
+  right: 25.53%;
+  bottom: 51.75%;
+  left: 51.06%;
+}
+.openPopUp {
+  position: absolute;
+  height: 31.88%;
+  width: 60.16%;
+  top: 58.7%;
+  left: 19.42%;
+  display: inline-block;
+}
+.actionscrollIntoViewIcon4 {
+  position: absolute;
+  height: 38.03%;
+  width: 45.47%;
+  top: 11.4%;
+  right: 26.19%;
+  bottom: 50.58%;
+  left: 28.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.actionsnormalCopy24,
+.group1 {
+  position: absolute;
+  height: 48.25%;
+  width: 23.41%;
+  top: 0;
+  right: 0;
+  bottom: 51.75%;
+  left: 76.59%;
+}
+.group1 {
+  height: 86.4%;
+  width: 100%;
+  top: 13.6%;
+  bottom: 0;
+  left: 0;
+}
+.chooseAction {
+  position: absolute;
+  height: 7.25%;
+  width: 26.19%;
+  top: 0;
+  left: 0.19%;
+  font-size: 8.32px;
+  font-weight: 500;
+  text-align: left;
+  display: inline-block;
+}
+.group,
+.group3 {
+  position: absolute;
+  height: 86.59%;
+  width: 93.68%;
+  top: 6.4%;
+  right: 3.16%;
+  bottom: 7.01%;
+  left: 3.16%;
+}
+.group {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group5Child {
+  position: absolute;
+  top: 20.17px;
+  left: 208.17px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.group5 {
+  position: absolute;
+  height: 9.71%;
+  width: 37.61%;
+  top: 50.03%;
+  right: 32.98%;
+  bottom: 40.26%;
+  left: 29.41%;
+  text-align: center;
+  font-size: 7.49px;
+  color: var(--color-darkslategray-200);
+}
+.chooseTheMatterhorn,
+.linkYourPopUp {
+  line-height: 28px;
+  display: inline-block;
+}
+.chooseTheMatterhorn {
+  position: absolute;
+  top: 1396.05px;
+  left: 104.52px;
+  width: 403px;
+}
+.linkYourPopUp {
+  top: 0;
+  left: 38.82px;
+  text-transform: uppercase;
+  width: 405.7px;
+}
+.b2,
+.groupInner,
+.linkYourPopUp {
+  position: absolute;
+}
+.groupInner {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 22.3px;
+  height: 24px;
+}
+.b2 {
+  top: 3.95px;
+  left: 7.76px;
+  display: inline-block;
+  width: 8.19px;
+  height: 17.63px;
+}
+.ellipseContainer {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 22.3px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.linkYourPopUpParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 444.52px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.youWillNeedToLinkThePopParent {
+  position: absolute;
+  top: 1006.16px;
+  left: 63px;
+  width: 444.52px;
+  height: 146px;
+}
+.perfectAreYou {
+  position: absolute;
+  top: 1484.05px;
+  left: 60px;
+  line-height: 32px;
+  display: inline-block;
+  width: 474px;
+}
+.screenshot20220204At827 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 197.75px;
+  height: 230.05px;
+  object-fit: cover;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 2.24px;
+  left: 1.91px;
+  border: 0.7px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 23.59px;
+  height: 22.92px;
+}
+.groupChild1 {
+  top: 0;
+  left: 0;
+}
+.groupChild1,
+.groupChild2,
+.groupChild3,
+.groupChild4 {
+  position: absolute;
+  background-color: var(--background-paper);
+  border: 1.1px solid var(--color-deepskyblue);
+  box-sizing: border-box;
+  width: 4.54px;
+  height: 4.54px;
+}
+.groupChild2 {
+  bottom: 0;
+  left: 0;
+}
+.groupChild3,
+.groupChild4 {
+  right: 0;
+}
+.groupChild3 {
+  top: 0;
+}
+.groupChild4 {
+  bottom: 0;
+}
+.rectangleParent {
+  position: absolute;
+  top: 25.55px;
+  left: 145.48px;
+  width: 27.77px;
+  height: 27.43px;
+}
+.screenshot20220204At827Parent {
+  position: absolute;
+  top: 426.68px;
+  left: 104.52px;
+  width: 197.75px;
+  height: 230.05px;
+}
+.screenshot20220204At831 {
+  position: absolute;
+  top: 1186px;
+  left: 105px;
+  width: 284px;
+  height: 180px;
+  object-fit: cover;
+}
+.gettingStartedAddActionsChild {
+  position: absolute;
+  width: 3.26%;
+  top: 1295.83px;
+  right: 35.59%;
+  left: 61.16%;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 4.7px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  height: 19.39px;
+}
+.gettingStartedAddActions {
+  position: absolute;
+  top: 10177px;
+  left: 89px;
+  background-color: var(--color-ghostwhite-100);
+  width: 595px;
+  height: 1637px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--studio-darkmode-explainertext-485269);
+  font-family: var(--components-button-large);
+}

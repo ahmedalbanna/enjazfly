@@ -1,0 +1,70 @@
+.groupChild {
+  position: absolute;
+  top: 133.59px;
+  left: 45.18px;
+  width: 420.5px;
+  height: 260.24px;
+}
+.inTheBuilder {
+  position: absolute;
+  top: 35.54px;
+  left: 42.18px;
+  line-height: 28px;
+  display: inline-block;
+  width: 435px;
+}
+.makeComponents {
+  top: 0;
+  left: 42.15px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.b,
+.groupItem,
+.makeComponents {
+  position: absolute;
+}
+.groupItem {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 24px;
+  height: 24px;
+}
+.b {
+  top: 3.95px;
+  left: 8.36px;
+  display: inline-block;
+  width: 8.81px;
+  height: 17.63px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 1.72px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.groupParent,
+.makeComponentsParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 218.15px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.groupParent {
+  top: 832.5px;
+  left: 58.82px;
+  width: 477.18px;
+  height: 393.83px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--studio-darkmode-explainertext-485269);
+  font-family: var(--components-button-large);
+}

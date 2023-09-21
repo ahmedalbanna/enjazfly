@@ -1,0 +1,70 @@
+.groupChild {
+  position: absolute;
+  top: 8.99px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 102.28px;
+  height: 148.4px;
+}
+.groupItem,
+.image6Icon {
+  position: absolute;
+  left: 110.85px;
+}
+.image6Icon {
+  top: 8.68px;
+  width: 94.96px;
+  height: 68.95px;
+  object-fit: cover;
+}
+.groupItem {
+  top: 94.37px;
+  background-color: var(--color-whitesmoke-300);
+  width: 95.87px;
+  height: 65.68px;
+}
+.homePage {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.airportDropdown,
+.fullBookingScreen,
+.groupInner {
+  position: absolute;
+  top: 85.41px;
+  left: 110.85px;
+}
+.airportDropdown,
+.groupInner {
+  top: 0;
+}
+.groupInner {
+  width: 7.19%;
+  top: 1.17px;
+  right: 51.23%;
+  left: 41.57%;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  height: 17.65px;
+}
+.rectangleParent,
+.vectorIcon {
+  position: absolute;
+  top: 72.13px;
+  left: 201.37px;
+  width: 43.97px;
+  height: 24.38px;
+}
+.rectangleParent {
+  top: 2879.33px;
+  left: 103.97px;
+  width: 245.39px;
+  height: 160.05px;
+  text-align: left;
+  font-size: var(--font-size-8xs);
+  color: var(--color-darkgray-100);
+  font-family: var(--components-button-large);
+}

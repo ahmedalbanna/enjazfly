@@ -1,0 +1,1166 @@
+.child {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-darkmode-maincta-457eff);
+  width: 100px;
+  height: 100px;
+}
+.b,
+.child,
+.div,
+.div1 {
+  position: absolute;
+}
+.b {
+  top: 25.28px;
+  left: 37.64px;
+  line-height: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24.72px;
+  height: 49.44px;
+}
+.div,
+.div1 {
+  top: 68.96px;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+.div {
+  top: 7392px;
+  left: 27px;
+  width: 657px;
+  height: 1434px;
+  font-family: var(--font-helvetica);
+}
+.instructions1 {
+  position: absolute;
+  top: 2707.55px;
+  left: 76.64px;
+  font-size: 100px;
+  color: var(--studio-darkmode-normalsolid-icons-96a2be);
+  text-align: left;
+}
+.taggingYourLayers {
+  position: absolute;
+  top: 35.46px;
+  left: 0;
+  line-height: 80px;
+  font-weight: 900;
+  display: inline-block;
+  width: 487.52px;
+}
+.gettingStarted {
+  position: absolute;
+  top: 0;
+  left: 2.48px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.taggingYourLayersParent {
+  position: absolute;
+  top: 41.54px;
+  left: 60.58px;
+  width: 487.52px;
+  height: 195.46px;
+  font-size: var(--font-size-46xl);
+  color: var(--color-darkslategray-100);
+}
+.startByTagging {
+  position: absolute;
+  top: 261px;
+  left: 60.09px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+  display: inline-block;
+  width: 474px;
+}
+.awesomeYouveNowContainer,
+.greatJobYouve,
+.selectTheSearchContainer {
+  position: absolute;
+  top: 1667px;
+  left: 60.09px;
+  line-height: 32px;
+  display: inline-block;
+  width: 474px;
+}
+.awesomeYouveNowContainer,
+.selectTheSearchContainer {
+  top: 3863.67px;
+}
+.selectTheSearchContainer {
+  top: 34px;
+  left: 41.52px;
+  width: 403px;
+}
+.selectTheLayer {
+  top: 0;
+  left: 41.77px;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.b1,
+.groupChild,
+.selectTheLayer {
+  position: absolute;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 24px;
+  height: 24px;
+}
+.b1 {
+  top: 3.95px;
+  left: 8.36px;
+  display: inline-block;
+  width: 8.81px;
+  height: 17.63px;
+}
+.ellipseParent {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.selectTheLayerParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 219.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.selectTheArrivalFieldOnParent,
+.selectTheSearchFlightsBuParent {
+  position: absolute;
+  top: 436px;
+  left: 60.58px;
+  width: 444.52px;
+  height: 130px;
+}
+.selectTheArrivalFieldOnParent {
+  top: 1842px;
+}
+.forNowSelect {
+  font-family: var(--components-button-large);
+}
+.forNowSelectNoneForThis {
+  margin: 0;
+}
+.forNowSelectContainer {
+  position: absolute;
+  top: 39px;
+  left: 41.52px;
+  line-height: 32px;
+  display: inline-block;
+  width: 403px;
+}
+.selectUiLibraryParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 221.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.forNowSelectNoneForThisParent,
+.gettingStartedTaggingInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 444.52px;
+  height: 103px;
+}
+.gettingStartedTaggingInner {
+  top: 756px;
+  left: 60.58px;
+}
+.materialUiDesign {
+  text-decoration: underline;
+}
+.materialUiDesignKit {
+  color: inherit;
+}
+.selectUiLibraryVariationParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 347.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.gettingStartedTaggingChild,
+.thisAutocompleteComesFromTParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 444.52px;
+  height: 135px;
+}
+.gettingStartedTaggingChild {
+  top: 2109.33px;
+  left: 60.58px;
+  color: inherit;
+}
+.editBasicAnd {
+  position: absolute;
+  top: 0;
+  left: 38.82px;
+  line-height: 28px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 405.7px;
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--studio-lightmode-midseparator-dee3eb);
+  width: 22.3px;
+  height: 24px;
+}
+.b5 {
+  position: absolute;
+  top: 3.95px;
+  left: 7.76px;
+  display: inline-block;
+  width: 8.19px;
+  height: 17.63px;
+}
+.ellipseParent1 {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 22.3px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.editBasicAndAdvancedAttribParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 444.52px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.youCanEditAttributesForYoParent {
+  position: absolute;
+  top: 1128px;
+  left: 60.58px;
+  width: 444.52px;
+  height: 98px;
+}
+.gettingStartedTaggingItem,
+.lineDiv {
+  position: absolute;
+  top: 723.5px;
+  left: 59.59px;
+  border-top: 1px solid var(--studio-lightmode-placeholders-bac2d6);
+  box-sizing: border-box;
+  width: 476px;
+  height: 1px;
+  opacity: 0.5;
+}
+.lineDiv {
+  top: 1095.5px;
+}
+.image10Icon,
+.image11Icon {
+  position: absolute;
+  top: 1250px;
+  left: 116.09px;
+  width: 363px;
+  height: 385px;
+  object-fit: cover;
+}
+.image11Icon {
+  top: 0;
+  left: 0;
+  width: 281px;
+  height: 181px;
+}
+.groupChild2 {
+  position: absolute;
+  top: 103.17px;
+  left: 256.17px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.image11Parent,
+.image13Icon {
+  position: absolute;
+  top: 883px;
+  left: 151.09px;
+  width: 281px;
+  height: 181px;
+}
+.image13Icon {
+  top: 0;
+  left: 0;
+  height: 182px;
+  object-fit: cover;
+}
+.groupChild3 {
+  position: absolute;
+  top: 101.17px;
+  left: 62.17px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.image13Parent {
+  position: absolute;
+  top: 2264.33px;
+  left: 157.09px;
+  width: 281px;
+  height: 182px;
+}
+.taggingAnAutocomplete,
+.tryTaggingA {
+  position: absolute;
+  top: 369px;
+  left: 60.09px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  width: 481px;
+}
+.taggingAnAutocomplete {
+  top: 1775px;
+  width: 488px;
+}
+.groupIcon,
+.image15Icon {
+  position: absolute;
+  top: 1989.55px;
+  left: 103.97px;
+  width: 318.72px;
+  height: 88.89px;
+  object-fit: cover;
+}
+.image15Icon {
+  top: 0;
+  left: 0;
+  width: 268px;
+  height: 195px;
+}
+.groupChild4 {
+  position: absolute;
+  top: 149.17px;
+  left: 246.17px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.image15Parent {
+  position: absolute;
+  top: 2462.33px;
+  left: 163.09px;
+  width: 268px;
+  height: 195px;
+}
+.leaveTheOther {
+  position: absolute;
+  top: 3804px;
+  left: 102.09px;
+  line-height: 28px;
+  display: inline-block;
+  width: 410.64px;
+}
+.image14Icon,
+.inTheAttributesSectionLooParent,
+.selectAPalletteThatFitsThParent {
+  position: absolute;
+  top: 3557.02px;
+  left: 60.09px;
+  width: 444.52px;
+  height: 98px;
+}
+.image14Icon,
+.selectAPalletteThatFitsThParent {
+  top: 3169.03px;
+}
+.image14Icon {
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 93px;
+  object-fit: cover;
+}
+.groupChild7 {
+  position: absolute;
+  top: 47.86px;
+  left: 346.27px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.gettingStartedTaggingInner1,
+.image14Parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370px;
+  height: 93px;
+}
+.gettingStartedTaggingInner1 {
+  top: 3679px;
+  left: 112px;
+}
+.gettingStartedTaggingChild1,
+.screenshot20220204At809 {
+  position: absolute;
+  top: 556.23px;
+  left: 102.35px;
+  width: 331.24px;
+  height: 134.82px;
+  object-fit: cover;
+}
+.screenshot20220204At809 {
+  top: 0;
+  left: 0;
+  width: 281.56px;
+  height: 247px;
+}
+.groupChild8 {
+  position: absolute;
+  top: 16.51px;
+  left: 259.49px;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 3.8px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+  width: 17.65px;
+  height: 17.65px;
+}
+.rectangleIcon,
+.screenshot20220204At809Parent {
+  position: absolute;
+  top: 3278.35px;
+  left: 101.61px;
+  width: 281.56px;
+  height: 247px;
+}
+.rectangleIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cancel,
+.yesProceed {
+  position: absolute;
+  height: 45.83%;
+  width: 28.46%;
+  top: 29.72%;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.yesProceed {
+  width: 78.95%;
+  left: 10.7%;
+}
+.group6,
+.group7 {
+  position: absolute;
+  height: 100%;
+  width: 61.79%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 38.21%;
+  color: var(--background-paper);
+}
+.group6 {
+  height: 9.34%;
+  width: 46.59%;
+  top: 87.15%;
+  right: 26.7%;
+  bottom: 3.51%;
+  left: 26.7%;
+  font-size: 3.15px;
+  color: var(--studio-darkmode-maincta-457eff);
+}
+.rectangleIcon2 {
+  position: absolute;
+  height: 10.89%;
+  width: 100%;
+  top: 0.03%;
+  right: 0;
+  bottom: 89.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.youAreIn {
+  position: absolute;
+  height: 4.67%;
+  width: 35.61%;
+  top: 2.95%;
+  left: 32.2%;
+  font-weight: 500;
+  display: inline-block;
+}
+.airportDropdown,
+.isThisThe,
+.youHaveSelected {
+  position: absolute;
+  height: 4.67%;
+  width: 31.44%;
+  top: 15.99%;
+  left: 34.28%;
+  display: inline-block;
+}
+.airportDropdown,
+.isThisThe {
+  width: 92.42%;
+  top: 75.13%;
+  left: 4%;
+}
+.airportDropdown {
+  height: 100%;
+  width: 85.23%;
+  top: 0;
+  left: 14.77%;
+  font-weight: 500;
+}
+.folderIcon {
+  position: absolute;
+  height: 62.4%;
+  width: 10.55%;
+  top: 18.93%;
+  right: 89.45%;
+  bottom: 18.68%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group4Copy {
+  position: absolute;
+  height: 4.84%;
+  width: 35.9%;
+  top: 26.88%;
+  right: 32.05%;
+  bottom: 68.28%;
+  left: 32.05%;
+  color: var(--studio-darkmode-maincta-457eff);
+}
+.image6Icon,
+.linkmodeLocate {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.image6Icon {
+  height: 37.26%;
+  width: 52.75%;
+  top: 34.96%;
+  right: 23.62%;
+  bottom: 27.77%;
+  left: 23.62%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.taggingFlowCustom {
+  position: absolute;
+  height: 37.96%;
+  width: 87.81%;
+  top: 31.02%;
+  right: 6.1%;
+  bottom: 31.02%;
+  left: 6.1%;
+}
+.gettingStartedTagging,
+.popupPlugin1 {
+  position: absolute;
+  top: 2888.01px;
+  left: 349.36px;
+  width: 105.26px;
+  height: 237.02px;
+  overflow: hidden;
+  font-size: var(--font-size-9xs-5);
+  color: var(--color-darkslategray-200);
+}
+.gettingStartedTagging {
+  top: 2976px;
+  left: 82px;
+  background-color: var(--color-ghostwhite-100);
+  width: 595px;
+  height: 3971px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.div2 {
+  position: absolute;
+  top: 3044px;
+  left: 24.09px;
+  width: 100px;
+  height: 100px;
+  font-family: var(--font-helvetica);
+}
+.instructionsChild,
+.instructionsItem {
+  position: absolute;
+  top: 2707.5px;
+  left: 793.5px;
+  border-right: 1px solid var(--studio-darkmode-normalsolid-icons-96a2be);
+  box-sizing: border-box;
+  width: 1px;
+  height: 16885px;
+}
+.instructionsItem {
+  left: 808.5px;
+}
+.gettingStartedWith {
+  position: absolute;
+  top: 1057.9px;
+  left: 88.23px;
+  font-size: 180px;
+  line-height: 240px;
+  color: var(--color-darkslategray-100);
+  text-align: left;
+}
+.toGetStartedContainer {
+  top: 1299.9px;
+  left: 104.34px;
+  color: var(--studio-darkmode-explainertext-485269);
+  text-align: left;
+}
+.inThisGuided,
+.toGetStartedContainer,
+.totalTime10 {
+  position: absolute;
+  line-height: 87px;
+  display: inline-block;
+  width: 2147.27px;
+}
+.inThisGuided {
+  top: 1590.06px;
+  left: 115.23px;
+  font-weight: 600;
+  color: var(--studio-darkmode-explainertext-485269);
+  text-align: left;
+}
+.totalTime10 {
+  top: 0;
+  left: 117px;
+}
+.groupChild9 {
+  position: absolute;
+  top: 0.47px;
+  left: 0;
+  width: 87px;
+  height: 87px;
+}
+.totalTime10To15MinutesParent {
+  position: absolute;
+  top: 2254.56px;
+  left: 115.23px;
+  width: 2264.27px;
+  height: 87.47px;
+  text-align: left;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.guideGuyIcon {
+  position: absolute;
+  top: 621.36px;
+  left: calc(50% + 685.32px);
+  width: 415.91px;
+  height: 379.62px;
+}
+.div3,
+.ellipseParent4 {
+  position: absolute;
+  top: 10239.83px;
+  left: 20px;
+  width: 100px;
+  height: 100px;
+  font-family: var(--font-helvetica);
+}
+.ellipseParent4 {
+  top: 13813.84px;
+  left: 0;
+}
+.onceYouAre {
+  position: absolute;
+  top: 258px;
+  left: 59px;
+  line-height: 38px;
+  display: inline-block;
+  width: 456px;
+}
+.onThisFigma,
+.selectTheFrames {
+  position: absolute;
+  line-height: 28px;
+}
+.onThisFigma {
+  top: 34px;
+  left: 42.18px;
+  display: inline-block;
+  width: 398px;
+}
+.selectTheFrames {
+  top: 0;
+  left: 42.15px;
+  text-transform: uppercase;
+}
+.ellipseParent5 {
+  position: absolute;
+  top: 1.72px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  font-size: var(--font-size-sm);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-helvetica);
+}
+.selectTheFramesParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 219.15px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.groupParent,
+.onThisFigmaFileSelectTheParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 440.18px;
+  height: 90px;
+}
+.groupParent {
+  top: 404.26px;
+  left: 58.82px;
+  height: 386.25px;
+  font-size: var(--font-size-lg);
+}
+.syncToLocofyContainer {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  line-height: 80px;
+  font-weight: 900;
+  display: inline-block;
+  width: 476.98px;
+}
+.gettingStarted1 {
+  position: absolute;
+  top: 0;
+  left: 3.42px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.syncToLocofyBuilderParent {
+  position: absolute;
+  top: 41.72px;
+  left: 59.02px;
+  width: 476.98px;
+  height: 195px;
+  font-size: var(--font-size-46xl);
+  color: var(--color-darkslategray-100);
+}
+.gettingStartedSyncToStud,
+.onceTheSync {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+}
+.gettingStartedSyncToStud {
+  top: 15623px;
+  left: 89px;
+  background-color: var(--color-ghostwhite-100);
+  width: 595px;
+  height: 1379px;
+  overflow: hidden;
+  text-align: left;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.onceTheSync {
+  top: 354px;
+  left: 59px;
+  line-height: 38px;
+  display: inline-block;
+  width: 456px;
+}
+.viewAndExportCodeOnLocofyParent {
+  position: absolute;
+  top: 41.72px;
+  left: 59.02px;
+  width: 476.98px;
+  height: 275px;
+  font-size: var(--font-size-46xl);
+  color: var(--color-darkslategray-100);
+}
+.onceYourProject {
+  position: absolute;
+  top: 34px;
+  left: 42.18px;
+  line-height: 28px;
+  display: inline-block;
+  width: 435px;
+}
+.viewCodeAndMakeChangesParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 318.15px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.image17Icon {
+  position: absolute;
+  top: 103.99px;
+  left: 42.18px;
+  border-radius: var(--br-9xs);
+  width: 435px;
+  height: 229.73px;
+  object-fit: cover;
+}
+.onceYourProjectHasBeenSynParent {
+  position: absolute;
+  top: 461.22px;
+  left: 58.82px;
+  width: 477.18px;
+  height: 333.72px;
+}
+.youreDoneAfter {
+  position: absolute;
+  top: 36.55px;
+  left: 42.18px;
+  line-height: 28px;
+  display: inline-block;
+  width: 435px;
+}
+.runYourProjectParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 213.15px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.image19Icon {
+  position: absolute;
+  top: 106px;
+  left: 42.18px;
+  width: 212.21px;
+  height: 234.1px;
+  object-fit: cover;
+}
+.youreDoneAfterExportingYParent {
+  position: absolute;
+  top: 1996.28px;
+  left: 58.82px;
+  width: 477.18px;
+  height: 340.1px;
+}
+.gettingStartedSyncToStud1 {
+  position: absolute;
+  top: 17196px;
+  left: 89px;
+  background-color: var(--color-ghostwhite-100);
+  width: 595px;
+  height: 2396px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.ellipseParent8 {
+  position: absolute;
+  top: 15688.11px;
+  left: 23px;
+  width: 100px;
+  height: 100px;
+  font-family: var(--font-helvetica);
+}
+.b15 {
+  position: absolute;
+  top: 25.28px;
+  left: 35.82px;
+  line-height: 105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28.36px;
+  height: 49.44px;
+}
+.ellipseParent9 {
+  position: absolute;
+  top: 17261.11px;
+  left: 23px;
+  width: 100px;
+  height: 100px;
+  font-family: var(--font-helvetica);
+}
+.tryTaggingThe {
+  position: absolute;
+  top: 0;
+  left: 9.31px;
+  letter-spacing: -0.04em;
+  line-height: 90px;
+  display: inline-block;
+  width: 920.72px;
+  transform: rotate(2.97deg);
+  transform-origin: 0 0;
+}
+.vectorIcon {
+  position: absolute;
+  top: 195.05px;
+  left: 37.41px;
+  width: 106.33px;
+  height: 81.68px;
+}
+.tryTaggingTheSearchFlightParent {
+  position: absolute;
+  top: 3190px;
+  left: 2382px;
+  width: 928.8px;
+  height: 269.67px;
+  font-size: var(--font-size-55xl);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-just-me-again-down-here);
+}
+.group2Icon {
+  position: absolute;
+  height: 0.82%;
+  width: 6.09%;
+  top: 16.48%;
+  right: 0;
+  bottom: 82.71%;
+  left: 93.91%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.useThisAs {
+  position: absolute;
+  top: 6539px;
+  left: 1354.45px;
+  font-size: var(--font-size-55xl);
+  letter-spacing: -0.04em;
+  line-height: 75px;
+  font-family: var(--font-just-me-again-down-here);
+  color: var(--studio-darkmode-maincta-457eff);
+  display: inline-block;
+  width: 468.49px;
+  transform: rotate(3.53deg);
+  transform-origin: 0 0;
+}
+.group2Icon1 {
+  position: absolute;
+  height: 0.78%;
+  width: 5.91%;
+  top: 34.92%;
+  right: 66.46%;
+  bottom: 64.3%;
+  left: 27.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instructionsInner {
+  position: absolute;
+  top: 6714.47px;
+  left: 1308.24px;
+  width: 144.13px;
+  height: 30.24px;
+}
+.makeSureYou,
+.tryDefiningBehaviour {
+  position: absolute;
+  letter-spacing: -0.04em;
+  transform-origin: 0 0;
+}
+.tryDefiningBehaviour {
+  top: 18.97px;
+  left: 0;
+  line-height: 66px;
+  display: inline-block;
+  width: 891.01px;
+  transform: rotate(-1.22deg);
+}
+.makeSureYou {
+  top: 155.94px;
+  left: 218.18px;
+  font-size: var(--font-size-27xl);
+  text-align: left;
+  transform: rotate(-2.03deg);
+}
+.groupChild16 {
+  position: absolute;
+  top: 178.62px;
+  left: 51.17px;
+  width: 90.07px;
+  height: 178.79px;
+}
+.tryDefiningBehaviourRespoParent {
+  position: absolute;
+  top: 8439px;
+  left: 2383px;
+  width: 893.62px;
+  height: 365.05px;
+  font-size: var(--font-size-55xl);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-just-me-again-down-here);
+}
+.group3Icon {
+  position: absolute;
+  height: 0.83%;
+  width: 5.64%;
+  top: 42.31%;
+  right: 20.58%;
+  bottom: 56.86%;
+  left: 73.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.tryAddingAn {
+  position: absolute;
+  top: 76.4px;
+  left: 0;
+  letter-spacing: -0.04em;
+  line-height: 74px;
+  display: inline-block;
+  width: 671.13px;
+  transform: rotate(-6.54deg);
+  transform-origin: 0 0;
+}
+.groupChild17 {
+  position: absolute;
+  top: 193.73px;
+  left: 440.16px;
+  width: 52.89px;
+  height: 165.97px;
+}
+.tryAddingAnActionToThePlParent {
+  position: absolute;
+  top: 9775px;
+  left: 1110.24px;
+  width: 683.61px;
+  height: 361.07px;
+  font-size: var(--font-size-55xl);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-just-me-again-down-here);
+}
+.group3Icon1 {
+  position: absolute;
+  height: 0.83%;
+  width: 6.43%;
+  top: 50.29%;
+  right: 67.82%;
+  bottom: 48.88%;
+  left: 25.76%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chooseThisAs {
+  position: absolute;
+  top: 0.33px;
+  left: 53.53px;
+  letter-spacing: -0.04em;
+  line-height: 66px;
+  display: inline-block;
+  width: 635.68px;
+  transform: rotate(-0.03deg);
+  transform-origin: 0 0;
+}
+.groupChild18 {
+  position: absolute;
+  top: 92.99px;
+  left: 37.58px;
+  width: 61.58px;
+  height: 160.63px;
+}
+.makeSureYou1 {
+  position: absolute;
+  top: 79.73px;
+  left: 94.23px;
+  font-size: var(--font-size-27xl);
+  letter-spacing: -0.04em;
+  text-align: left;
+  transform: rotate(-0.47deg);
+  transform-origin: 0 0;
+}
+.chooseThisAsYourPopUpParent {
+  position: absolute;
+  top: 12365px;
+  left: 887px;
+  width: 689.25px;
+  height: 256.15px;
+  font-size: var(--font-size-55xl);
+  color: var(--studio-darkmode-maincta-457eff);
+  font-family: var(--font-just-me-again-down-here);
+}
+.group2Icon2 {
+  position: absolute;
+  height: 0.78%;
+  width: 6.65%;
+  top: 63.17%;
+  right: 47.52%;
+  bottom: 36.04%;
+  left: 45.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instructions {
+  position: relative;
+  width: 100%;
+  height: 19592px;
+  text-align: center;
+  font-size: var(--font-size-41xl);
+  color: var(--background-paper);
+  font-family: var(--components-button-large);
+}

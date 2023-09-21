@@ -1,0 +1,95 @@
+.groupChild,
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  position: absolute;
+  top: 8px;
+  left: 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 60px;
+  height: 111px;
+}
+.groupInner,
+.groupItem,
+.rectangleDiv {
+  top: 135.77px;
+  height: 65.07px;
+}
+.groupInner,
+.rectangleDiv {
+  top: 217.6px;
+  left: 72.14px;
+  width: 38.26px;
+  height: 27.54px;
+}
+.rectangleDiv {
+  left: 0;
+  width: 60px;
+  height: 65.07px;
+}
+.homePage,
+.hotelsPage,
+.popup,
+.resultsPage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 40.9px;
+  height: 7.9px;
+}
+.hotelsPage,
+.popup,
+.resultsPage {
+  top: 127.77px;
+  width: 51px;
+  height: 8px;
+}
+.hotelsPage,
+.popup {
+  top: 209.6px;
+  left: 72.14px;
+}
+.hotelsPage {
+  left: 0;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 123.14px;
+  height: 282.68px;
+}
+.screenshot20220302At735 {
+  position: absolute;
+  top: 146.17px;
+  left: 71.01px;
+  border-radius: 0 0 var(--br-9xs) var(--br-9xs);
+  width: 269px;
+  height: 105px;
+  object-fit: cover;
+}
+.ellipseDiv {
+  position: absolute;
+  height: 5.97%;
+  width: 5.28%;
+  top: 73.29%;
+  right: -0.78%;
+  bottom: 20.74%;
+  left: 95.51%;
+  border-radius: 50%;
+  background-color: var(--studio-universal-confirm-4fc786);
+  border: 4.6px solid var(--color-mediumseagreen-100);
+  box-sizing: border-box;
+}
+.groupParent {
+  position: absolute;
+  top: 103.57px;
+  left: 94.17px;
+  width: 320.01px;
+  height: 282.68px;
+  text-align: left;
+  font-size: 6.58px;
+  color: var(--color-darkgray-400);
+  font-family: var(--components-button-large);
+}

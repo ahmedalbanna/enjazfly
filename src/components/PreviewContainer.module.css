@@ -1,0 +1,785 @@
+.groupIcon,
+.rectangleIcon,
+.vectorIcon {
+  position: absolute;
+  height: 83.8%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 16.2%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon,
+.rectangleIcon {
+  height: 100%;
+  bottom: 0;
+}
+.groupIcon {
+  height: 4.68%;
+  bottom: 95.32%;
+}
+.nikeLandingP {
+  position: absolute;
+  height: 40%;
+  width: 58.06%;
+  top: 26.67%;
+  left: 19.35%;
+  display: inline-block;
+}
+.groupIcon1,
+.groupIcon2 {
+  position: absolute;
+  height: 10%;
+  width: 4.03%;
+  top: 45%;
+  right: 4.84%;
+  bottom: 45%;
+  left: 91.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon2 {
+  height: 50.76%;
+  width: 8.47%;
+  top: 25.13%;
+  right: 85.28%;
+  bottom: 24.12%;
+  left: 6.25%;
+}
+.dropdownproject {
+  position: absolute;
+  height: 65.22%;
+  width: 43.36%;
+  top: 17.39%;
+  right: 53.85%;
+  bottom: 17.39%;
+  left: 2.8%;
+}
+.web {
+  position: absolute;
+  height: 40%;
+  width: 26.49%;
+  top: 26.67%;
+  left: 31.67%;
+  display: inline-block;
+}
+.groupIcon3,
+.groupIcon4 {
+  position: absolute;
+  height: 10%;
+  width: 6.62%;
+  top: 45%;
+  right: 8.06%;
+  bottom: 45%;
+  left: 85.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon4 {
+  height: 30%;
+  width: 15.44%;
+  top: 35%;
+  right: 75.06%;
+  bottom: 35%;
+  left: 9.5%;
+}
+.dropdownplatform {
+  position: absolute;
+  height: 65.22%;
+  width: 26.4%;
+  top: 17.39%;
+  right: 26.05%;
+  bottom: 17.39%;
+  left: 47.55%;
+}
+.groupIcon5,
+.groupIcon6,
+.lineIcon,
+.shapeIcon {
+  position: absolute;
+  height: 20.95%;
+  width: 1.98%;
+  top: 39.53%;
+  right: 11.25%;
+  bottom: 39.53%;
+  left: 86.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon6,
+.lineIcon,
+.shapeIcon {
+  height: 21.74%;
+  width: 3.49%;
+  top: 39.13%;
+  right: 17.48%;
+  bottom: 39.13%;
+  left: 79.02%;
+}
+.groupIcon6,
+.lineIcon {
+  height: 22.95%;
+  width: 3.53%;
+  top: 38.52%;
+  right: 3.48%;
+  bottom: 38.52%;
+  left: 92.99%;
+}
+.lineIcon {
+  height: 1.52%;
+  width: 100%;
+  top: 98.54%;
+  right: 0;
+  bottom: -0.06%;
+  left: 0;
+}
+.group,
+.lineIcon1,
+.pluginprojectWeb {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group,
+.lineIcon1 {
+  height: 5.99%;
+  top: 4.68%;
+  bottom: 89.33%;
+}
+.lineIcon1 {
+  height: 1.75%;
+  top: 0.03%;
+  bottom: 98.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.selectALayer,
+.tagLayers {
+  position: absolute;
+  left: 2.8%;
+  display: inline-block;
+}
+.tagLayers {
+  height: 30%;
+  width: 17.13%;
+  top: 17.08%;
+  font-weight: 500;
+}
+.selectALayer {
+  height: 27.5%;
+  width: 57.34%;
+  top: 47.92%;
+  font-size: 3.31px;
+  color: var(--color-lightsteelblue-100);
+}
+.icontabUp {
+  position: absolute;
+  height: 30%;
+  width: 4.2%;
+  top: 37.38%;
+  right: 3.5%;
+  bottom: 32.62%;
+  left: 92.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group2,
+.group3,
+.lineIcon2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.group3 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  box-shadow: 0 1.472156286239624px 1.47px rgba(0, 0, 0, 0.02);
+}
+.group2,
+.lineIcon2 {
+  height: 5.2%;
+  top: 10.59%;
+  bottom: 84.21%;
+}
+.lineIcon2 {
+  height: 1.67%;
+  top: -0.05%;
+  bottom: 98.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.defineBehaviour,
+.editYourLayers {
+  position: absolute;
+  left: 2.8%;
+  display: inline-block;
+}
+.defineBehaviour {
+  height: 28.57%;
+  width: 56.29%;
+  top: 17.86%;
+  font-weight: 500;
+}
+.editYourLayers {
+  height: 26.19%;
+  width: 75.52%;
+  top: 48.81%;
+  font-size: 3.31px;
+  color: var(--color-lightsteelblue-100);
+}
+.groupIcon7 {
+  position: absolute;
+  height: 28.57%;
+  width: 4.2%;
+  top: 38.1%;
+  right: 3.5%;
+  bottom: 33.33%;
+  left: 92.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group4 {
+  position: absolute;
+  height: 5.47%;
+  width: 100%;
+  top: 15.79%;
+  right: 0;
+  bottom: 78.74%;
+  left: 0;
+}
+.rectangleCopyIcon,
+.rectangleIcon6 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleCopyIcon {
+  height: 48.28%;
+  width: 100%;
+  top: 26.72%;
+  right: 0;
+  bottom: 25%;
+  left: 0;
+  opacity: 0.19;
+}
+.rectangleIcon6 {
+  height: 80.63%;
+  width: 106.32%;
+  top: -1.9%;
+  right: -3.35%;
+  bottom: 21.27%;
+  left: -2.97%;
+}
+.popUp {
+  position: absolute;
+  height: 8.66%;
+  width: 13.04%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.rectangleCopyIcon1 {
+  position: absolute;
+  height: 26%;
+  width: 100%;
+  top: 10%;
+  right: 0;
+  bottom: 64%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.choosePopUp,
+.text {
+  position: absolute;
+  height: 12%;
+  width: 26.88%;
+  top: 16%;
+  left: 3.16%;
+  display: inline-block;
+}
+.text {
+  height: 100%;
+  width: 39.53%;
+  top: 0;
+  left: 0;
+}
+.groupIcon8 {
+  position: absolute;
+  height: 3%;
+  width: 1.98%;
+  top: 22.03%;
+  right: 2.55%;
+  bottom: 74.97%;
+  left: 95.48%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fieldtextInput,
+.rectangleIcon7 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.fieldtextInput {
+  height: 72.2%;
+  top: 5.78%;
+  bottom: 22.02%;
+  color: var(--color-lightsteelblue-100);
+}
+.rectangleIcon7 {
+  height: 27.57%;
+  top: 25.41%;
+  bottom: 47.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.5;
+}
+.fieldtextInputCopy2Child {
+  position: absolute;
+  height: 12.97%;
+  width: 16.21%;
+  top: 32.16%;
+  left: 14.43%;
+  display: inline-block;
+}
+.folderIcon {
+  position: absolute;
+  height: 8.38%;
+  width: 3.95%;
+  top: 34.7%;
+  right: 87.15%;
+  bottom: 56.91%;
+  left: 8.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle {
+  position: absolute;
+  height: 12.97%;
+  width: 17.79%;
+  top: 56.76%;
+  left: 19.96%;
+  display: inline-block;
+}
+.iconblockcanvass,
+.rectangleCopy7Icon {
+  position: absolute;
+  height: 8.65%;
+  width: 3.16%;
+  top: 59.46%;
+  right: 82.41%;
+  bottom: 31.89%;
+  left: 14.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconblockcanvass {
+  height: 12.38%;
+  width: 4.52%;
+  top: 7.86%;
+  right: 93.18%;
+  bottom: 79.76%;
+  left: 2.29%;
+}
+.fieldtextInputCopy2Item,
+.locate {
+  position: absolute;
+  height: 12.97%;
+  width: 18.97%;
+  top: 7.03%;
+  left: 8.89%;
+  display: inline-block;
+}
+.locate {
+  height: 11.89%;
+  width: 11.07%;
+  top: 79.46%;
+  left: 8.31%;
+  font-size: 3.31px;
+  color: var(--studio-darkmode-maincta-457eff);
+}
+.bitmapIcon,
+.shapeIcon1 {
+  position: absolute;
+  height: 8.65%;
+  width: 3.16%;
+  top: 81.62%;
+  right: 93.86%;
+  bottom: 9.73%;
+  left: 2.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bitmapIcon {
+  height: 20.54%;
+  width: 16.07%;
+  top: 444.71%;
+  right: 9.2%;
+  bottom: -365.25%;
+  left: 74.74%;
+  object-fit: cover;
+}
+.fieldtextInputCopy2,
+.group3Copy2 {
+  position: absolute;
+  height: 66.79%;
+  width: 100%;
+  top: 33.21%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group3Copy2 {
+  height: 43.97%;
+  width: 94.05%;
+  top: 56.03%;
+  right: 2.97%;
+  left: 2.97%;
+}
+.action {
+  position: absolute;
+  height: 17.78%;
+  width: 11.81%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.group6Icon,
+.icontick {
+  position: absolute;
+  height: 82.83%;
+  width: 23.62%;
+  top: 9.09%;
+  right: 73.86%;
+  bottom: 8.08%;
+  left: 2.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icontick {
+  height: 19.15%;
+  width: 3.73%;
+  top: 14.14%;
+  right: 92.68%;
+  bottom: 66.7%;
+  left: 3.58%;
+}
+.change {
+  width: 12.2%;
+  left: 70.04%;
+}
+.cancel,
+.change,
+.openPopUp {
+  position: absolute;
+  height: 22.22%;
+  top: 38.38%;
+  display: inline-block;
+}
+.openPopUp {
+  width: 20.08%;
+  left: 28.94%;
+  color: var(--color-darkslategray-200);
+}
+.cancel {
+  width: 11.02%;
+  left: 85.43%;
+}
+.group11 {
+  position: absolute;
+  height: 73.33%;
+  width: 100%;
+  top: 26.67%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: 3.31px;
+  color: var(--studio-darkmode-maincta-457eff);
+}
+.group12Copy {
+  position: absolute;
+  height: 21.43%;
+  width: 94.42%;
+  top: 21.59%;
+  right: 2.6%;
+  bottom: 56.98%;
+  left: 2.97%;
+}
+.editYourAction {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.group41 {
+  position: absolute;
+  height: 3.49%;
+  width: 39.41%;
+  top: 47.78%;
+  right: 57.62%;
+  bottom: 48.73%;
+  left: 2.97%;
+  font-size: 3.31px;
+  color: var(--color-lightsteelblue-100);
+}
+.onClick,
+.trigger {
+  position: absolute;
+  display: inline-block;
+}
+.trigger {
+  height: 11.11%;
+  width: 13.04%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.onClick {
+  height: 12%;
+  width: 14.23%;
+  top: 16%;
+  left: 3.16%;
+}
+.fieldtextInput1,
+.group3Copy {
+  position: absolute;
+  height: 92.59%;
+  width: 100%;
+  top: 7.41%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group3Copy {
+  height: 34.29%;
+  width: 94.05%;
+  top: 2.86%;
+  right: 2.97%;
+  bottom: 62.86%;
+  left: 2.97%;
+}
+.group5,
+.lineIcon3 {
+  position: absolute;
+  height: 40.99%;
+  width: 94.06%;
+  top: 28.02%;
+  right: 3.15%;
+  bottom: 30.99%;
+  left: 2.8%;
+}
+.lineIcon3 {
+  height: 1.67%;
+  width: 100%;
+  top: -0.04%;
+  right: 0;
+  bottom: 98.38%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addActions,
+.addTriggersAnd {
+  position: absolute;
+  left: 2.8%;
+  display: inline-block;
+}
+.addActions {
+  height: 28.57%;
+  width: 19.23%;
+  top: 17.86%;
+  font-weight: 500;
+}
+.addTriggersAnd {
+  height: 26.19%;
+  width: 52.1%;
+  top: 48.81%;
+  font-size: 3.31px;
+  color: var(--color-lightsteelblue-100);
+}
+.group7 {
+  position: absolute;
+  height: 5.47%;
+  width: 100%;
+  top: 21.26%;
+  right: 0;
+  bottom: 73.28%;
+  left: 0;
+}
+.addPreBuiltComponents,
+.dragDrop {
+  position: absolute;
+  left: 2.8%;
+  display: inline-block;
+}
+.dragDrop {
+  height: 28.57%;
+  width: 52.8%;
+  top: 17.86%;
+  font-weight: 500;
+}
+.addPreBuiltComponents {
+  height: 26.19%;
+  width: 60.49%;
+  top: 48.81%;
+  font-size: 3.31px;
+  color: var(--color-lightsteelblue-100);
+}
+.group8,
+.lineIcon5 {
+  position: absolute;
+  height: 5.47%;
+  width: 100%;
+  top: 73.13%;
+  right: 0;
+  bottom: 21.41%;
+  left: 0;
+}
+.lineIcon5 {
+  height: 1.75%;
+  top: 0.04%;
+  bottom: 98.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.syncToProject {
+  position: absolute;
+  height: 100%;
+  width: 83.99%;
+  top: 0;
+  left: 16.01%;
+  display: inline-block;
+}
+.groupIcon10 {
+  position: absolute;
+  height: 77.76%;
+  width: 8.95%;
+  top: 19.71%;
+  right: 91.05%;
+  bottom: 2.53%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group12,
+.group34 {
+  position: absolute;
+  height: 46.15%;
+  width: 86.15%;
+  top: 23.08%;
+  right: 7.13%;
+  bottom: 30.77%;
+  left: 6.72%;
+}
+.group12 {
+  height: 65%;
+  width: 32.38%;
+  top: 17.5%;
+  right: 2.8%;
+  bottom: 17.5%;
+  left: 64.83%;
+}
+.rectangleCopyIcon4,
+.triangleIcon {
+  position: absolute;
+  height: 103.18%;
+  width: 101.06%;
+  top: -1.59%;
+  right: -0.53%;
+  bottom: -1.59%;
+  left: -0.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.triangleIcon {
+  height: 33.3%;
+  width: 9.43%;
+  top: 33.35%;
+  right: 71.47%;
+  bottom: 33.35%;
+  left: 19.1%;
+}
+.preview {
+  position: absolute;
+  height: 47.62%;
+  width: 46.42%;
+  top: 22.22%;
+  left: 35.22%;
+  display: inline-block;
+}
+.group21 {
+  position: absolute;
+  height: 63%;
+  width: 26.36%;
+  top: 18.5%;
+  right: 36.71%;
+  bottom: 18.5%;
+  left: 36.92%;
+  color: var(--studio-darkmode-maincta-457eff);
+}
+.group9 {
+  height: 5.2%;
+  top: 78.59%;
+  bottom: 16.2%;
+  color: var(--background-paper);
+}
+.artboardCopy35,
+.group9,
+.rectangleCopy4Icon {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.rectangleCopy4Icon {
+  height: 79.12%;
+  top: 4.68%;
+  bottom: 16.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.9;
+}
+.artboardCopy35 {
+  height: 119.33%;
+  top: 0;
+  bottom: -19.33%;
+  text-align: left;
+  font-size: 3.68px;
+  color: var(--color-darkslategray-200);
+  font-family: var(--components-button-large);
+}

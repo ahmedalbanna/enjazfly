@@ -1,0 +1,586 @@
+.selectALayerContainer {
+  position: absolute;
+  top: 253.11px;
+  left: 60px;
+  font-size: var(--font-size-5xl);
+  line-height: 38px;
+  display: inline-block;
+  width: 480px;
+}
+.viewProjectIn,
+.youCanNow {
+  position: absolute;
+  line-height: 28px;
+}
+.youCanNow {
+  top: 34px;
+  left: 41.48px;
+  display: inline-block;
+  width: 401px;
+}
+.viewProjectIn {
+  top: 0;
+  left: 41.77px;
+  text-transform: uppercase;
+}
+.groupChild {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.viewProjectInDifferentScreParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 410.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.rectangleIcon {
+  position: absolute;
+  height: 106.26%;
+  width: 115.78%;
+  top: -1.57%;
+  right: -7.89%;
+  bottom: -4.7%;
+  left: -7.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.responsive {
+  position: absolute;
+  height: 4.37%;
+  width: 46.34%;
+  top: 2.78%;
+  left: 14.76%;
+  display: inline-block;
+}
+.galaxyS5,
+.iphone5se,
+.iphone678,
+.motoG4,
+.pixel2,
+.pixel2Xl {
+  position: absolute;
+  height: 5.26%;
+  width: 47.95%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.galaxyS5,
+.iphone5se,
+.iphone678,
+.pixel2,
+.pixel2Xl {
+  width: 54.79%;
+  top: 8.61%;
+}
+.iphone5se,
+.iphone678,
+.pixel2,
+.pixel2Xl {
+  width: 36.99%;
+  top: 17.23%;
+}
+.iphone5se,
+.iphone678,
+.pixel2Xl {
+  width: 54.79%;
+  top: 25.84%;
+}
+.iphone5se,
+.iphone678 {
+  width: 68.49%;
+  top: 34.45%;
+}
+.iphone678 {
+  width: 72.6%;
+  top: 43.06%;
+}
+.galaxyFold,
+.ipad,
+.ipadPro,
+.iphone678Plus,
+.iphoneX,
+.surfaceDuo {
+  position: absolute;
+  height: 5.26%;
+  width: 100%;
+  top: 51.67%;
+  left: 0;
+  display: inline-block;
+}
+.galaxyFold,
+.ipad,
+.ipadPro,
+.iphoneX,
+.surfaceDuo {
+  width: 49.32%;
+  top: 60.29%;
+}
+.galaxyFold,
+.ipad,
+.ipadPro,
+.surfaceDuo {
+  width: 24.66%;
+  top: 68.9%;
+}
+.galaxyFold,
+.ipadPro,
+.surfaceDuo {
+  width: 46.58%;
+  top: 77.51%;
+}
+.galaxyFold,
+.surfaceDuo {
+  width: 68.49%;
+  top: 86.12%;
+}
+.galaxyFold {
+  width: 64.38%;
+  top: 94.74%;
+}
+.group39 {
+  position: absolute;
+  height: 82.94%;
+  width: 71.98%;
+  top: 13.1%;
+  right: 13.26%;
+  bottom: 3.97%;
+  left: 14.76%;
+}
+.groupIcon,
+.line2Icon {
+  position: absolute;
+  height: 0.27%;
+  width: 100%;
+  top: 10.18%;
+  right: 0;
+  bottom: 89.55%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  height: 2.35%;
+  width: 7.42%;
+  top: 3.99%;
+  right: 87.47%;
+  bottom: 93.66%;
+  left: 5.1%;
+}
+.devicesDropdown,
+.preview {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.preview {
+  height: 84.84%;
+  width: 28.99%;
+  top: 15.16%;
+  right: 51.27%;
+  left: 19.74%;
+}
+.group30Icon,
+.rectangleIcon1,
+.rectangleIcon2 {
+  position: absolute;
+  height: 135.06%;
+  width: 104.08%;
+  top: -17.53%;
+  right: -2.04%;
+  bottom: -17.53%;
+  left: -2.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group30Icon,
+.rectangleIcon2 {
+  height: 100%;
+  width: 21.66%;
+  top: 0;
+  right: 58.71%;
+  bottom: 0;
+  left: 19.62%;
+}
+.group30Icon {
+  height: 19.1%;
+  width: 7.62%;
+  top: 40.45%;
+  right: 88.16%;
+  bottom: 40.45%;
+  left: 4.22%;
+}
+.responsive1 {
+  position: absolute;
+  height: 100%;
+  width: 86.19%;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+}
+.groupIcon1 {
+  position: absolute;
+  height: 21.01%;
+  width: 7.23%;
+  top: 44.14%;
+  right: -0.58%;
+  bottom: 34.84%;
+  left: 93.35%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group38 {
+  position: absolute;
+  height: 37.6%;
+  width: 20.68%;
+  top: 29.24%;
+  right: 79.32%;
+  bottom: 33.16%;
+  left: 0;
+  font-size: 10.23px;
+}
+.ovalIcon,
+.screenscustomIcon {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.screenscustomIcon {
+  position: absolute;
+  height: 59.46%;
+  width: 77.66%;
+  top: -0.81%;
+  right: 8.82%;
+  bottom: 41.35%;
+  left: 13.52%;
+}
+.ovalIcon {
+  height: 14.97%;
+  width: 21.7%;
+  top: 41.83%;
+  right: 9.27%;
+  bottom: 43.2%;
+  left: 69.03%;
+  opacity: 0.5;
+}
+.group7,
+.more,
+.ovalIcon {
+  position: absolute;
+}
+.more {
+  height: 36.12%;
+  width: 100%;
+  top: 63.88%;
+  left: 0;
+  display: inline-block;
+}
+.group7 {
+  height: 95.43%;
+  width: 7.2%;
+  top: 4.57%;
+  right: 0;
+  bottom: 0;
+  left: 92.8%;
+  opacity: 0.5;
+}
+.screens1200Icon {
+  position: absolute;
+  height: 60.94%;
+  width: 77.17%;
+  top: -0.77%;
+  right: 10.44%;
+  bottom: 39.84%;
+  left: 12.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.default {
+  position: absolute;
+  height: 34.47%;
+  width: 100%;
+  top: 65.53%;
+  left: 0;
+  display: inline-block;
+}
+.group3 {
+  position: absolute;
+  height: 100%;
+  width: 9.94%;
+  top: 0;
+  right: 61.88%;
+  bottom: 0;
+  left: 28.18%;
+  opacity: 0.5;
+}
+.screens991Icon {
+  height: 57.27%;
+  width: 102.05%;
+  top: -0.79%;
+  right: -1.03%;
+  bottom: 43.52%;
+  left: -1.03%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div,
+.group6,
+.screens991Icon {
+  position: absolute;
+}
+.div {
+  height: 35.22%;
+  width: 86.16%;
+  top: 64.78%;
+  left: 7.61%;
+  display: inline-block;
+}
+.group6 {
+  height: 97.88%;
+  width: 8.35%;
+  top: 2.12%;
+  right: 46.12%;
+  bottom: 0;
+  left: 45.53%;
+  opacity: 0.5;
+}
+.screens767Icon {
+  height: 58.35%;
+  width: 96.78%;
+  top: -0.78%;
+  right: 4.75%;
+  bottom: 42.43%;
+  left: -1.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1,
+.group5,
+.screens767Icon {
+  position: absolute;
+}
+.div1 {
+  height: 34.79%;
+  width: 97.88%;
+  top: 65.21%;
+  left: 2.12%;
+  display: inline-block;
+}
+.group5 {
+  height: 99.08%;
+  width: 5.6%;
+  top: 0.92%;
+  right: 31.89%;
+  bottom: 0;
+  left: 62.5%;
+  opacity: 0.5;
+}
+.groupIcon2 {
+  height: 55.22%;
+  width: 62.99%;
+  top: -0.82%;
+  right: 19.96%;
+  bottom: 45.59%;
+  left: 17.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div2,
+.group4,
+.groupIcon2 {
+  position: absolute;
+}
+.div2 {
+  height: 36.47%;
+  width: 100%;
+  top: 63.53%;
+  left: 0;
+  display: inline-block;
+}
+.group4 {
+  height: 94.52%;
+  width: 5.48%;
+  top: 5.48%;
+  right: 16.47%;
+  bottom: 0;
+  left: 78.05%;
+  opacity: 0.5;
+}
+.group34 {
+  position: absolute;
+  height: 70.91%;
+  width: 74.35%;
+  top: 14.82%;
+  right: 2.97%;
+  bottom: 14.27%;
+  left: 22.68%;
+}
+.group37,
+.previewParent {
+  position: absolute;
+  right: 0;
+}
+.group37 {
+  height: 13.51%;
+  width: 100%;
+  top: 0;
+  bottom: 86.49%;
+  left: 0;
+  font-size: var(--font-size-3xs-2);
+}
+.previewParent {
+  height: 69.72%;
+  width: 90.63%;
+  top: 30.28%;
+  bottom: 0;
+  left: 9.37%;
+  font-size: 10.32px;
+  color: var(--color-darkslategray-200);
+}
+.youCanNowSeeHowYourProjeParent {
+  position: absolute;
+  top: 399.11px;
+  left: 59.52px;
+  width: 442.73px;
+  height: 495.39px;
+}
+.youCanAlso {
+  margin: 0;
+}
+.youCanAlsoContainer {
+  position: absolute;
+  top: 38px;
+  left: 41.73px;
+  line-height: 28px;
+  display: inline-block;
+  width: 409px;
+}
+.testOutTheInteractionsParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 293.77px;
+  height: 28px;
+  color: var(--color-darkslategray-100);
+}
+.screenshot20220204At834 {
+  position: absolute;
+  top: 194.27px;
+  left: 41.73px;
+  width: 356.09px;
+  height: 284.61px;
+  object-fit: cover;
+}
+.youCanAlsoCheckOutTheIntParent {
+  position: absolute;
+  top: 955.11px;
+  left: 59.27px;
+  width: 450.73px;
+  height: 478.88px;
+}
+.previewYourProject {
+  position: absolute;
+  top: 35px;
+  left: 0;
+  line-height: 80px;
+  font-weight: 900;
+  display: inline-block;
+  width: 468px;
+}
+.gettingStarted {
+  position: absolute;
+  top: 0;
+  left: 3.69px;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--studio-darkmode-explainertext-485269);
+}
+.previewYourProjectParent {
+  position: absolute;
+  top: 42.11px;
+  left: 59px;
+  width: 468px;
+  height: 195px;
+  font-size: var(--font-size-46xl);
+  color: var(--color-darkslategray-100);
+}
+.gettingStartedPreviewChild {
+  position: absolute;
+  top: 925.61px;
+  left: 58.5px;
+  border-top: 1px solid var(--studio-lightmode-placeholders-bac2d6);
+  box-sizing: border-box;
+  width: 482px;
+  height: 1px;
+  opacity: 0.5;
+}
+.duringPreviewYour {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  line-height: 28px;
+  display: inline-block;
+  width: 435.3px;
+}
+.duringPreviewYourProjectWWrapper,
+.groupInner {
+  position: absolute;
+  bottom: 0;
+  left: 7.5px;
+  width: 435.3px;
+  height: 112px;
+}
+.groupInner {
+  bottom: 139px;
+  left: 0;
+  width: 460.5px;
+  height: 0.7px;
+}
+.groupChild1,
+.groupParent {
+  position: absolute;
+  bottom: 127px;
+  left: 213.5px;
+  width: 24px;
+  height: 24px;
+}
+.groupParent {
+  bottom: 27.91px;
+  left: 65.5px;
+  width: 460.5px;
+  height: 151px;
+  text-align: center;
+  font-size: var(--components-button-large-size);
+}
+.gettingStartedPreview {
+  position: absolute;
+  top: 13776px;
+  left: 89px;
+  background-color: var(--color-ghostwhite-100);
+  width: 595px;
+  height: 1653px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--studio-darkmode-explainertext-485269);
+  font-family: var(--components-button-large);
+}

@@ -1,0 +1,209 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--background-paper);
+  width: 2760px;
+  height: 865.55px;
+}
+.locofyLogo1 {
+  position: absolute;
+  top: 109.15px;
+  left: 87.19px;
+  width: 592.5px;
+  height: 178.5px;
+  object-fit: cover;
+}
+.group9Icon,
+.group9Icon1 {
+  position: absolute;
+  height: 26.47%;
+  width: 8.69%;
+  top: 9.39%;
+  right: 46.6%;
+  bottom: 64.15%;
+  left: 44.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.6;
+}
+.group9Icon1 {
+  height: 30.03%;
+  width: 9.86%;
+  top: 66.15%;
+  right: 23.11%;
+  bottom: 3.82%;
+  left: 67.03%;
+}
+.import {
+  color: var(--color-slateblue);
+}
+.span {
+  color: var(--color-darkslategray-300);
+}
+.react {
+  color: var(--studio-universal-confirm-4fc786);
+}
+.importReactFromReact {
+  margin: 0;
+}
+.importHomeUicss {
+  margin: 0;
+  color: var(--studio-universal-confirm-4fc786);
+}
+.homeuiprops {
+  color: var(--color-indianred);
+}
+.exportConstHomeuiReactfun,
+.header {
+  margin: 0;
+  color: var(--color-indianred);
+}
+.header {
+  color: var(--color-slateblue);
+}
+.importReactFromContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.importReactFromContainer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 41.49px;
+  font-weight: 600;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  width: 1179.05px;
+  height: 539.99px;
+  opacity: 0.8;
+}
+.importReactFromReactImpWrapper {
+  position: absolute;
+  top: -243.43px;
+  left: 1543.22px;
+  width: 1179.05px;
+  height: 539.99px;
+  opacity: 0.2;
+  color: var(--color-darkslategray-300);
+  font-family: var(--font-source-code-pro);
+}
+.pluginMockupIcon {
+  position: absolute;
+  height: 145.55%;
+  width: 22.24%;
+  top: 20.98%;
+  right: -2.14%;
+  bottom: -66.53%;
+  left: 79.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.7;
+}
+.getLocofyPlugin {
+  position: absolute;
+  top: 6px;
+  left: 130px;
+  text-decoration: underline;
+  line-height: 87.51px;
+  font-weight: 700;
+  color: inherit;
+}
+.iconPlugin {
+  position: absolute;
+  height: 100%;
+  width: 16.56%;
+  top: 0;
+  right: 83.44%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.getLocofyPluginParent,
+.watchDemoParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 604px;
+  height: 100px;
+}
+.watchDemoParent {
+  left: 704px;
+  width: 466px;
+}
+.guides {
+  position: absolute;
+  top: 0;
+  left: 130.2px;
+  text-decoration: underline;
+  line-height: 87.51px;
+  font-weight: 700;
+  color: inherit;
+}
+.books1Icon {
+  position: absolute;
+  height: 90.91%;
+  width: 31.43%;
+  top: 5.16%;
+  right: 68.57%;
+  bottom: 3.93%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.guidesParent {
+  position: absolute;
+  top: 6px;
+  left: 1270px;
+  width: 318.2px;
+  height: 88px;
+}
+.groupParent,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1588.2px;
+  height: 100px;
+}
+.groupWrapper {
+  top: 672.49px;
+  left: 87.19px;
+  font-size: var(--font-size-41xl);
+  color: var(--studio-darkmode-maincta-457eff);
+}
+.shipProducts2xContainer,
+.turnYourDesigns {
+  position: absolute;
+  top: 484.98px;
+  left: 87.19px;
+  font-size: var(--font-size-52xl);
+  line-height: 92px;
+  display: inline-block;
+  width: 2147.27px;
+}
+.turnYourDesigns {
+  top: 349.48px;
+  font-size: var(--font-size-74xl);
+  line-height: 110px;
+  font-family: var(--font-alegreya);
+  width: 2342.11px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 115.23px;
+  width: 2760px;
+  height: 865.55px;
+  text-align: left;
+  font-size: 27.66px;
+  color: var(--studio-darkmode-explainertext-485269);
+  font-family: var(--components-button-large);
+}
